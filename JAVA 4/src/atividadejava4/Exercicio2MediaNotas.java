@@ -2,7 +2,7 @@ package atividadejava4;
 
 import java.util.Scanner;
 
-public class MediaNotas {
+public class Exercicio2MediaNotas {
 
 	public static void main(String[] args) {
 		

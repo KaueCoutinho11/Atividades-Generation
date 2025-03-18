@@ -2,7 +2,7 @@ package atividadejava4;
 
 import java.util.Scanner;
 
-public class CalculoSalario {
+public class Exercicio1CalculoSalario {
 
 	public static void main(String[] args) {
 		

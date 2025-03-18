@@ -2,7 +2,7 @@ package atividadejava4;
 
 import java.util.Scanner;
 
-public class SalarioLiquido {
+public class Exercicio3SalarioLiquido {
 
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);

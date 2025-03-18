@@ -2,7 +2,7 @@ package atividadejava4;
 
 import java.util.Scanner;
 
-public class CalculoProdutos {
+public class Exercicio4CalculoProdutos {
 
 	public static void main(String[] args) {
 		
